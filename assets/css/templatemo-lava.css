@@ -269,6 +269,22 @@ header
 --------------------------------------------- 
 */
 
+.pricing {
+  background-color: #fba70b;
+  color: white;
+  font-size: 25px;
+}
+
+.pricing-li {
+  border-bottom: 1px solid #eee;
+  padding: 20px;
+  text-align: center;
+}
+
+.testimonial-img{
+  border-radius: 50%;
+}
+
 .background-header {
   background-color: #fff;
   height: 80px !important;
